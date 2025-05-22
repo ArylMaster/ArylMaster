@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArylMaster
 - 👀 I’m interested in competitive programming and software development.
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on real world projects.
 - 📫 How to reach me? Fork any repository
 - 😄 Pronouns: He/him
